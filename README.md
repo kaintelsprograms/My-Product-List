@@ -2,4 +2,8 @@
 
 ## 1. Free 3D weapon and item pack
 
-* [Link](https://themovingshine.itch.io/freeweaponanditempack)
+* [Link](https://tmshome.itch.io/freeweaponanditempack)
+
+## 2. Spliterpy
+
+* [Link](https://tmshome.itch.io/spliterpy)
