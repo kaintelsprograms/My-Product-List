@@ -7,4 +7,4 @@
 
 ## 2. Spliterpy
 ![image](https://user-images.githubusercontent.com/38157496/75631127-9b7d7780-5c33-11ea-97c9-e0cdd79c73bc.png)
-* [Link](https://tmshome.itch.io/spliterpy)
+* [Link](https://tmshome.itch.io/spliterpy) / [Source Code](https://github.com/Kaintels/Spliterpy/blob/master/Spliterpy.py)
