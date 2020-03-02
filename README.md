@@ -1,11 +1,10 @@
 # My-Product-List
 
 ## 1. Free 3D weapon and item pack
-
-<iframe frameborder="0" src="https://itch.io/embed/325980" width="208" height="167"><a href="https://tmshome.itch.io/freeweaponanditempack">Free 3D weapon and item pack by The Moving Shine</a></iframe>
-
 ![image](https://user-images.githubusercontent.com/38157496/75630880-ab945780-5c31-11ea-8808-ac1c137c3912.png)
+* [[Link]](https://tmshome.itch.io/freeweaponanditempack)
+
 
 ## 2. Spliterpy
-
+![image](https://user-images.githubusercontent.com/38157496/75631127-9b7d7780-5c33-11ea-97c9-e0cdd79c73bc.png)
 * [Link](https://tmshome.itch.io/spliterpy)
